@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.262c750f.css",
+    "main.js": "./static/js/main.c7ad62e7.js",
+    "static/js/787.87b7834b.chunk.js": "./static/js/787.87b7834b.chunk.js",
+    "static/media/fon2.png": "./static/media/fon2.6794bfc04457da9ffd5a.png",
+    "static/media/fon_img2.jpg": "./static/media/fon_img2.d92800ff7f646c63c1ae.jpg",
+    "static/media/phone-blur.gif": "./static/media/phone-blur.f28998d8d886b9d878f1.gif",
+    "static/media/whatsapp-icon.png": "./static/media/whatsapp-icon.288c668ccb8033e17ce1.png",
+    "static/media/fon_img.jpg": "./static/media/fon_img.8813492fd054c3ce18fb.jpg",
+    "static/media/male.jpg": "./static/media/male.f8b02b6e6b9aa380b788.jpg",
+    "static/media/modal-back.jpg": "./static/media/modal-back.7f5bb92d9690e7f00ca6.jpg",
+    "static/media/messanger-png.png": "./static/media/messanger-png.c06783c28c2f727177bc.png",
+    "static/media/famale.svg": "./static/media/famale.cca6da963528333a8004af92df35171b.svg",
+    "static/media/male.svg": "./static/media/male.4f8edc8fbe4b9e607fb66b0ac68584d6.svg",
+    "index.html": "./index.html",
+    "main.262c750f.css.map": "./static/css/main.262c750f.css.map",
+    "main.c7ad62e7.js.map": "./static/js/main.c7ad62e7.js.map",
+    "787.87b7834b.chunk.js.map": "./static/js/787.87b7834b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.262c750f.css",
+    "static/js/main.c7ad62e7.js"
+  ]
+}
